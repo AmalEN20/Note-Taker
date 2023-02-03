@@ -42,3 +42,5 @@ Ensure the following packages were installed correctly
 4. To end the server type the command "Ctrl c"
 
 ## Screenshots
+![Screen Shot 2023-02-02 at 9 16 49 PM](https://user-images.githubusercontent.com/116880367/216518743-80c76bdc-478b-4647-821d-1fdf2a9fbcda.png)
+![Screen Shot 2023-02-02 at 9 18 40 PM](https://user-images.githubusercontent.com/116880367/216518752-c0a5e2d4-a5e3-45d2-a459-e4eae9225248.png)
